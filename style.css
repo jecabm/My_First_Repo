@@ -34,6 +34,10 @@ li a {
   text-decoration: none;
 }
 
+.housemate-resp {
+  display: none;
+}
+
 .content-nav {
   width: 78%;
   margin: auto;
@@ -302,7 +306,6 @@ em {
 }
 
 .overview {
-  background-color: white;
   height: 250px;
   width: 70%;
   padding-top: 90px;
