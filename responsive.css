@@ -43,16 +43,12 @@
   .persona {
     width: 100%;
   }
-
-  .nav-links {
-    position: fixed;
-    background: #00abb9;
-    height: 100vh;
-    width: 100%;
-  }
 }
 
 @media only screen and (max-width: 900px) {
+  .social {
+    display: none;
+  }
 }
 
 @media only screen and (max-width: 768px) {
